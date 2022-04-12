@@ -9,7 +9,7 @@
 
 - [X] ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 - [X] Vue-Cli
-- [ ] Vuex
+- [X] Vuex
 - [ ] ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 
 <hr>
